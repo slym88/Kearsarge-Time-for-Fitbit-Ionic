@@ -1,7 +1,3 @@
-School and Activity Icons by Madison Neal
-
-Weather Code by gregoiresage
-https://github.com/gregoiresage/fitbit-weather
-
-Weather Icons by kickstandapps
-https://github.com/kickstandapps/WeatherIcons
+School Icons by Alex
+Activity Icons based off of design by Fitbit
+Created February 2018
