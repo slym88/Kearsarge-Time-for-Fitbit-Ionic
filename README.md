@@ -12,6 +12,7 @@ A Watchface for Fitbit Ionic that shows the schedule for Marathon High.
 
 # Credits
 School Icons by Alex
-Activity Icons based off design by Fitbit
-Updated February 2018
+Activity Icons based off of design by Fitbit
+App based off of Kearsarge Time for Fitbit Ionic by Madison Neal (cmspooner)
+Created February 2018
 
