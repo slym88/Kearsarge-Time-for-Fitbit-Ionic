@@ -68,9 +68,9 @@ export function toDay(day, len = "short") {
 }
 
 export function goalToColor(value, total, low = 'fb-red', 
-                                          medium = 'fb-peach', 
-                                          high = 'fb-cyan', 
-                                          complete = 'fb-mint', ){
+                                          medium = 'fb-dodgerblue', 
+                                          high = 'fb-royalblue', 
+                                          complete = 'fb-chartreuse', ){
   if (!value || !total){
     color = low;
     return color;
