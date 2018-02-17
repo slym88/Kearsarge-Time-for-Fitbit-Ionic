@@ -27,10 +27,7 @@ function mySettings(props) {
           {name:"Regular"},
           {name:"No School"},
           {name:"2 Hour Delay"},
-          {name:"PM Activity"},
-          {name:"Assembly"},
-          {name:"7 Period"},
-          {name:"Exam"},
+          {name:"Student Council 1"},
         ]}
         />
     </Page>
